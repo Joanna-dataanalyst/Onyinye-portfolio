@@ -1,4 +1,4 @@
-# Onyinye-s-portfolio
+# Onyinye-portfolio
 This repo contains my portfolio projects.
 
 # About
